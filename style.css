@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    font-family: cursive;
+}
+
+#start,#objects,#status{
+    font-size: 18px;
+    font-family: fantasy;
+}
+
+#copyrightfooter{
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+    background-color: black;
+    color: cornsilk;
+}
+
+canvas{
+    border: 3px double crimson;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px pink;
+    margin-top: 130px;
+}
